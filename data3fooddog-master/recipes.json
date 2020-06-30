@@ -1,0 +1,583 @@
+ [
+   {
+     "name": "Dog's Favorite",
+     "description": "",
+     "image": "1.jpg",
+     "time": "45 min",
+     "fav": false,
+     "ingregients": [
+       "2 pounds Ground beef",
+       "2 pounds Ground turkey",
+       "14 ounces Tuna (2 cans, in water)",
+       "1/2 pound Chicken gizzards",
+       "1/2 cup Cottage cheese",
+       "3 Eggs",
+       "1 cup White rice (cooked)",
+       "6 ounces Sweet potato",
+       "6 ounces Green peas (cooked)",
+       "6 ounces Cauliflower",
+       "6 ounces Broccoli",
+       "1/2 Apple (medium size)",
+       "3 tablespoons Coconut oil"
+     ],
+     "instruction": [
+       "Cook rice per label instructions. In a second pot boil the chicken gizzards until cooked thoroughly - about 10 minutes. Add eggs to this pot for the last 5 minutes to hard boil.",
+       "In a third very large pot cook the ground beef and ground turkey until browned. Drain off most of the fat and remove from the heat.",
+       "Use a food processor to grind the raw peas, raw broccoli, raw cauliflower, 1/2 apple (cored and seeded), cooled gizzards, and peeled eggs. This may take two batches.",
+       "Microwave sweet potato for 3-4 minutes until soft.",
+       "Add all ingredients, including the canned salmon or tuina, to the large pot with the beef and turkey. Add cottage cheese and coconut oil at the end. Mix well with a wooden spoon to incorporate.",
+       "This will make more than two weeks food .Place in freezer bags, label, and date."
+     ]
+   },
+   {
+     "name": "Lamb, millet and squash stew",
+     "description": "Lamb can be a good source of protein for dogs who show a sensitivity to other meats. Millet is also one of the least allergenic foods, so together with the easily digestible squash, this makes a nutritious meal.",
+     "image": "lamb.jpg",
+     "time": "50 min",
+     "fav": false,
+     "ingregients": [
+       "½ tsp olive oil",
+     "500g stewing lamb",
+     "1 garlic clove, finely chopped (optional)",
+     "500ml stock (unsalted) or water",
+     "80g millet",
+     "300g butternut squash, peeled, deseeded and cut into 1cm dice",
+     "100g peas, fresh or frozen",
+     "2 tbsp mint, finely chopped"
+     ],
+     "instruction": [
+       "Warm the oil in a heavy saucepan over a medium-high heat and add the lamb. Cook, stirring from time to time, for five minutes. Lower the heat, add the garlic, if using, and stir for a minute. Pour in the stock, bring to a simmer, cover and cook for 30 minutes.",
+       "Add the millet and squash and cook for a further 30 minutes, stirring from time to time, until the meat is very tender. Add the peas, cook for five minutes more, remove from the heat and stir in the mint. Cool before serving.",
+       "If you like, cook this in a slow cooker for around eight hours, or in a pressure cooker on high for 25-30 minutes.",
+       " It will keep sealed in the refrigerator for three to four days, or in the freezer for four months."
+
+     ]
+   },
+   {
+     "name": "Beef, barley and broccoli casserole",
+     "description": "Barley is high in fibre and very easily digestible, so it makes a good addition to your repertoire of recipes for your dog. Tasty, ripe, cooked tomatoes are a good source of lycopene, a beneficial antioxidant. If you don’t have any stock, you can use the water you’ve used to cook other vegetables in, as long as they haven’t been cooked with salt.",
+     "image": "beef.jpg",
+     "time": "15 min",
+     "fav": false,
+     "ingregients": [
+       "½ tsp olive oil",
+     "600g stewing beef",
+     "2 carrots, scrubbed and cut into 5mm dice",
+     "1 celery stick, cut into 5mm dice (if you have leaves, chop them finely and add them at the end),",
+     "400g tinned chopped tomatoes",
+     "400ml homemade stock (unsalted) or water",
+     "80g pearl barley, rinsed",
+     "175g broccoli, roughly chopped into small pieces",
+     "2 tbsp parsley or oregano, leaves and stems finely chopped"
+     ],
+     "instruction": [
+       "Warm the oil in a heavy saucepan over a medium heat and add the beef, carrots and celery and cook, stirring for five minutes.",
+       "Tip in the tomatoes and stock or water and bring to a simmer. Add the barley, return to a simmer, lower the heat, cover, and cook for one hour, until the beef is tender and the barley is cooked.",
+       "Add the broccoli and cook for a further 10 minutes. Remove from the heat, stir in the herbs and any celery tops you might have. Cool before serving.",
+       "If you like, cook this in a slow cooker for around eight hours, or in a pressure cooker on high for 25-30 minutes.",
+       "It will keep sealed in the refrigerator for three to four days, or in the freezer for four months."
+     ]
+   },
+   {
+   "name": "Doggy breath bones",
+   "description": "Parsley contains limonene, which kills bad mouth bacteria. Thank goodness, all you dog lovers are saying. Quantities here will make approximately 32 biscuits, which your dogs will love.",
+   "image": "breath.jpg",
+   "time": "40 min",
+     "fav": false,
+   "ingregients": [
+     "Big bunch of parsley, about 70g, stalks and leaves finely chopped",
+     "1 large carrot, about 130g, grated",
+     "60g cheddar, grated",
+     "300g buckwheat flour or brown     rice flour, plus a little more for dusting later on",
+     "70ml olive oil About",
+     "50ml hot water"
+   ],
+   "instruction": [
+"Preheat the oven to 180C/Gas 4.",
+     "Mix together the parsley, carrot, cheese and flour until well combined. Trickle over the olive oil and stir in the water. Turn the mixture out onto a lightly floured surface and knead until you have a firm dough. Roll out to 5mm thick and cut out with a bone-shaped cookie cutter.",
+     " Lay the dough bones on baking trays and bake in the preheated oven for 22-24 minutes, until crisp and starting to brown slightly around the edges. Cool on a wire rack before serving.",
+     "The bones will keep for a month in an airtight jar, or you can freeze them for up to four months."
+   ]
+ },
+   {
+     "name": "Healthy Bowl",
+     "description": "Approx. serves: 24",
+     "image": "next.jpg",
+     "time": "2 hours",
+     "fav": false,
+     "ingregients": [
+       "453.59 g ground beef",
+       "226.79 g ground chicken",
+       "226.79 g ground turkey",
+       "453.59 g baby carrots",
+       "2 small baking potatoes",
+       "709.77 ml brown rice",
+       "3 eggs, slightly beaten",
+       "709.77 ml chicken broth",
+       "473.18 ml cups water"
+     ],
+     "instruction": [
+       "Cook all 3 ground meats together in larger 6 quart dutch oven.",
+       "Add rice, chicken broth and water. Cook on medium heat for 30 minutes.",
+       "Add potatoes and carrots, and slightly beaten eggs. Cook for an additional 20 - 30 minutes",
+       "After cooking, put mixture into storage containers. This freezes very well."
+     ]
+   },
+   {
+     "name": "Pumpkin Dog Biscuits",
+     "description": "Approx. 20 treats",
+     "image": "pumpkin.jpg",
+     "time": "55 mins",
+     "fav": false,
+     "ingregients": [
+       "2 eggs",
+       "1⁄2 cup canned pumpkin",
+      " 1⁄2 teaspoon salt",
+       "2 tablespoons dry milk",
+       "2 1⁄2 cups flour (wheat is probably better!)",
+       "water"
+     ],
+     "instruction": [
+       "Preheat oven to 350 degrees F.",
+  "Blend eggs and pumpkin together; add salt, dry milk, and flour.",
+     "Add water as needed to make the dough somewhat workable.",
+       "The dough should be dry and stiff, don't be concerned with crumbs being left in the bowl.",
+       "You will need to mix this with your hands because it is too stiff for an electric mixer.",
+       "Roll to 1/2-inch thick.",
+       "Cut into shapes.",
+       "Place 1\" apart on ungreased cookie sheet",
+       "Bake for 20 minutes on one side, then turn over and bake another 20 minutes."
+     ]
+   },
+   {
+     "name": "Sweet Potato Chews for Dogs",
+     "description": "",
+     "image": "chews.jpg",
+     "time": "3 hours",
+     "fav": false,
+     "ingregients": [
+"raw sweet potato or 1 yam",
+       "Wash the sweet potato or yam (the very orange type)."
+
+     ],
+     "instruction": [
+"Preheat oven to 250°F.",
+       "Cut down the middle lengthwise.",
+       "Then cut long lengthwise slices about 1/3 of an inch wide and place on a cookie sheet in a single layer.",
+       "Bake in oven at 250 F for about 3 hours.",
+       "This leaves them kind of chewy but you could also bake them a little longer to get them crunchy."
+     ]
+   },
+   {
+   "name": "Gourmet Dog Biscuits",
+   "description": "Approx serves  18-25",
+   "image": "gourmet.jpg",
+   "time": "50 min",
+     "fav": false,
+   "ingregients": [
+     "2 cups whole wheat flour",
+     "3⁄4 cup rolled oats",
+     "1⁄2 cup powdered milk",
+     "1 egg, beaten",
+     "5 tablespoons vegetable oil",
+     "1⁄4 cup water",
+     "2 jars strained baby food (any flavor, all natural and no preservatives)"
+   ],
+   "instruction": [
+
+   ]
+ },
+   {
+     "name": "Beef Mix",
+     "description": "DOG FOOD FOR NORMAL, FUSSY, FAT, THIN AND DIABETIC DOGS\napprox. serves: 14",
+     "image": "fat.jpg",
+     "time": "1 hr 40 min",
+     "fav": false,
+     "ingregients": [
+       "2 lbs carrots",
+       "2 lbs potatoes",
+       "1⁄2 bunch celery (can sub zucchini when it's plentiful)",
+       "2 -3 lbs beef (cheap cuts of hamburger, mince, chuck or the like)",
+       "1⁄4 dripping (optional)",
+       "3 -4 chicken stock cubes (optional)",
+       "3 -4 quarts water (12-16 cups)",
+       "1 lb pearl barley, dried"
+     ],
+     "instruction": [
+"If you are making the recipe as shown, before you start to prepare it, make sure you have a pot large enough to hold all the ingredients. A very large stock pot is great and essential.",
+       "Chop or slice the carrots, potatoes, celery and meat (other than minced meat) to a size that suits your dog.",
+       "Add the above ingredients to the pot.",
+       "Add the drippings, or soy sauce and stock cubes to the pot. If you don't make roasts, see if your neighbours will save their drippings. This recipe can be made without the drippings or soy sauce/stock cubes, but I think the doggies deserve this luxury. You can freeze drippings.",
+       "Add the water to the pot. You may need to reduce the amount of water. It will depend on the moisture content in the vegetables and meat. These days, I use about 12-14 cups of water",
+       "Put the pot on the stove top, over a high heat.",
+       "Let it cook for about one hour.",
+       "Then -- assuming the mixture has come to a boil -- add the barley. Don't add the barley until the boil happens (it doesn't have to be a big rolling boil).",
+       "After adding the barley, cook for another 30-35 minutes (depending on what the barley package suggests.",
+       "This recipe really holds its heat, so let it cool for at least four hours before serving. Better still, make the recipe in the morning (weekends are good), then dish up the servings for the evening meal and let them cool all day.",
+       "Store in the refrigerator after completely cooled. Freezes well."
+     ]
+   },
+   {
+   "name": "Birthday Cake",
+   "description": "",
+   "image": "birthday.jpg",
+   "time": "1 hour",
+   "fav": false,
+   "ingregients": [
+     "1 egg",
+     "1⁄4 cup peanut butter",
+     "1⁄4 cup cooking oil",
+     "1 teaspoon vanilla extract",
+     "1⁄3 cup honey (optional)",
+     "1 cup carrot, shredded",
+     "1 cup whole wheat flour (preferred) or 1 cup white flour (alternate)",
+     "1 teaspoon baking soda"
+   ],
+   "instruction": [
+"Preheat oven to 350 degrees F (175 degrees C).",
+     "Grease a 6 cup ring mold.",
+     "Combine the egg, peanut butter, oil, vanilla, and honey, if desired, in a large bowl; blend well.",
+     "Stir in the carrots and mix thoroughly.",
+     "Sift together the flour and baking soda and fold into the carrot mixture.",
+     "Spoon cake batter into prepared pan.",
+     "Bake in preheated oven for 40 minutes.",
+     "Let cake cool in pan for 10 minutes; then turn out onto a wire rack to cool completely."
+   ]
+ },
+   {
+   "name": "Grammy Cookies",
+   "description": "",
+   "image": "grammy.jpg",
+   "fav": false,
+   "time": "35 min",
+   "ingregients": [
+     "3⁄4 cup cornmeal",
+     "1 teaspoon salt",
+     "2 cups flour (I use 1 1/2c Whole Wheat, 1/2 c White and 1/2 c Soy Flours)",
+     "1⁄4 cup flax seed meal (optional)",
+     "2 tablespoons vegetable oil",
+     "1 tablespoon olive oil",
+     "3 tablespoons minced parsley",
+     "3⁄4 cup chicken broth"
+   ],
+   "instruction": [
+"Combine 1st 4 ingredients in a bowl and mix well. In another boal, combine, oils, parsley and 1/2 cup Chicken broth. Add the dry ingredients to the wet ingredients and stire well. Add more of the chicken broth (up to 1/4 c) as needed to hold dough together.",
+    "Dump out on cutting board, knead briefly, then roll out (1/4 - 1/2\" thick). Cut with cookie cutter. Roll remnants into small mini-treat sized balls. Bake on cookie sheet for 15 minutes at 400 degrees. Turn off oven and leave cookies in for 10 minutes. Remove and transfer to rack to cool.",
+     "No preservatives, so these should be eaten fairly soon. Or they freeze GREAT."
+   ]
+ },
+   {
+   "name": "Liver Birthday Cake",
+   "description": "",
+   "image": "liver.jpg",
+   "time": "25 min",
+   "fav": false,
+   "ingregients": [
+     "500g chicken livers",
+     "1 egg",
+     "1 cup cornmeal or 1 cup semolina flour",
+     "1 cup flour",
+     "1 tablespoon garlic powder (do not use fresh garlic, fresh garlic is harmful to dogs)"
+   ],
+   "instruction": [
+     "Liquefy chicken liver and egg in blender.",
+     "Add liver mixture to remaining ingredients and mix well.",
+     "Pour into lightly greased oven-safe pan/tray/dish and bake at 400F for 20 minutes.",
+     "Let cool for about 5 minutes. Cut into desired shape(s) when still warm.",
+     "For a pretty cake, I cut out two flower shapes and stack them on top of each other slightly staggered to give the illusion of layers of petals."
+   ]
+ },
+   {
+     "name": "Tuna Bites",
+     "description": "",
+     "image": "tuna.jpg",
+     "time": "40 min",
+     "fav": false,
+     "ingregients": [
+       "1+1⁄2 cups rolled oats",
+       "1 cup cornmeal",
+       "1⁄2 cup whole wheat flour",
+       "1⁄2 teaspoon dried dill weed",
+       "1 teaspoon dried oregano",
+       "1 teaspoon dried thyme",
+       "2 teaspoons dried parsley",
+       "5 ounces tuna in vegetable oil, undrained",
+       "3 tablespoons extra virgin olive oil",
+       "1⁄4 cup water",
+       "1 egg"
+     ],
+     "instruction": [
+"Preheat oven to 350 degrees F; lightly coat a baking sheet with cooking spray.",
+       "In a large bowl, whisk together oats, cornmeal, flour and the herbs.",
+       "Use a blender or food processor to puree the tuna, oil, water and egg.",
+       "Make a well in the center of the dry ingredients and add the puree; stir until combined.",
+       "Use a 1 inch cookie scooper to pack the dough, then place on the prepared cookie sheet (I just use my hands to compress and try to make them all about the same size).",
+       "Bake for 25 minutes; cool on a wire rack."
+     ]
+   },
+   {
+   "name": "Berry Muffins",
+   "description": "",
+   "image": "muffins.jpg",
+   "time": "30 min",
+   "fav": false,
+   "ingregients": [
+     "1  cup rolled oats",
+     "1 cup whole wheat flour",
+    " 1 1⁄2 teaspoons baking powder",
+     "1 teaspoon ground cinnamon",
+    " 1 egg",
+     "3⁄4 cup buttermilk",
+     "1⁄4 cup applesauce",
+     "1 cup cherries, stoned and chopped or 1 cup blueberries"
+   ],
+   "instruction": [
+"Preheat oven to 400 degrees F; grease and flour muffin pan.",
+     "Combine oats, flour, baking powder, and cinnamon; in another bowl, slightly beat the egg, beat in milk and applesauce.",
+     "Slowly add dry ingredients to the wet ingredients; stir in berries.",
+     "Fill muffin cups 2/3 to 3/4 full; bake about 20 minutes for regular-sized muffins and 15 minutes for mini-muffins at 375 degrees."
+   ]
+ },
+   {
+   "name": "Grain and Vegies Combo",
+   "description": "If you’re looking to give making your own dog food a whirl, this recipe is loaded with lean protein and nourishing vegetables, and incorporates a healthy grain (cooked oats), rather than corn. ",
+   "image": "grain.jpg",
+   "fav": false,
+   "time": "45 min",
+   "ingregients": [
+"3 pounds boneless, skinless chicken breasts",
+     "3 cups cooked old-fashioned regular rolled oats",
+     "2 cups shredded yellow squash or zucchini",
+     "1 cup shredded carrots",
+     "1 cup frozen green peas, thawed",
+     "1/2 cup chopped fresh flat-leaf parsley"
+   ],
+   "instruction": [
+"Place chicken breasts in a large saucepan; add water until chicken is covered. Bring to a boil over high, and once water boils, reduce heat to medium. Simmer until chicken is cooked through, 10 to 12 minutes. Remove from heat, and let chicken cool in chicken broth in saucepan for 30 minutes.",
+     "Transfer chicken to a cutting board, reserving broth. Chop chicken into small pieces. Combine chicken, oats, shredded vegetables, peas, and parsley in a large bowl. Add reserved chicken broth, 1/2 cup at a time, until desired consistency is reached based on your dog’s palate.",
+     "To store dog food: Place in ziplock plastic bags, seal and store in refrigerator up to 3 to 4 days, or in freezer up to 3 weeks. Check with your veterinarian to determine your dog’s nutritional needs and serving size."
+   ]
+ },
+   {
+   "name": "Pup-kin Spice Latte",
+   "description": "",
+   "image": "latte.jpg",
+   "time": "10 min",
+   "fav": false,
+   "ingregients": [
+     "2/3 cup unsweetened coconut milk beverage",
+     "1 tablespoon canned pumpkin",
+     "1 teaspoon honey",
+     "1/8 teaspoon ground cinnamon, divided",
+     "1/4 cup unsweetened apple juice",
+     "Whipped cream (optional)"
+   ],
+   "instruction": [
+"Combine coconut milk, pumpkin, honey, and a pinch of the cinnamon in a small saucepan. Bring to a simmer over medium, whisking constantly. Pour apple juice in a mug or bowl, and add warm coconut milk mixture. Top with whipped cream, if desired, and sprinkle with remaining cinnamon."
+   ]
+ },
+   {
+     "name": "Bacon Cookies",
+     "description": "The cookie every dog dreams of… Use uncured bacon and low-sodium broth to make this treat a must-have for your dog.",
+     "image": "bacon.jpg",
+     "time": "30 min",
+     "fav": false,
+     "ingregients": [
+"3 slices uncured bacon",
+       "2 1/4 cups whole wheat flour",
+       "1/2 cup toasted wheat germ",
+       "1/2 cup flax seed",
+       "1/2 cup nonfat dry milk",
+       "1 large egg",
+       "1 cup low sodium chicken broth",
+       "1/3 cup chopped parsley"
+     ],
+     "instruction": [
+"Preheat the oven to 350°F. Line 2 large shallow baking sheets with parchment paper.",
+       "Heat a medium nonstick skillet over medium and cook bacon until crisp, turning once or twice, about 6-7 minutes. Drain bacon, transfer to a cutting board, and finely chop it. Reserve 1 tablespoon bacon fat.",
+       "Combine the chopped bacon, flour, wheat germ and dry milk in a medium bowl. Whisk together reserved bacon fat, egg, broth and parsley in a separate bowl. Pour the wet ingredients into the dry and stir with a spoon or rubber spatula until a rough dough forms. Knead the dough in the bowl 5-6 times until it comes together.",
+       "Turn the dough out onto a lightly floured work surface and roll out to a 1/4-inch thickness. With a 2-inch round cookie cutter, cut out treats and transfer to the prepared baking sheets. Press all the scraps together, kneading once or twice, then roll out to 1/4-inch thickness and cut out more treats; repeat if necessary.",
+       "Bake treats until lightly browned and fairly hard, rotating the pans from top to bottom once, about 35-40 minutes. Remove from the oven and cool completely; biscuits will harden as they cool. Store in an airtight container."
+     ]
+   },
+   {
+   "name": "Fishy Dog Treats",
+   "description": "",
+   "image": "fishy.jpg",
+   "time": "50 min",
+   "fav": false,
+   "ingregients": [
+"0.2 can Salmon (14 3/4 ounce)",
+     "0.2 can Tuna in Water (7 ounce)",
+     "0.8 Eggs (beaten)",
+     "50 g Flour (whole wheat)"
+   ],
+   "instruction": [
+"Pre-heat oven to 350 degrees.",
+     "Combine the salmon and tuna in a medium bowl. No need to drain. Add the beaten eggs followed by the flour. Stir well to thoroughly combine.",
+     "Spread evenly in a lightly greased 12 x 16 baking pan.",
+     "Bake for 40 minutes and cool briefly. Cut into 1/2 inch squares and divide into 5 storing bags."
+   ]
+ },
+   {
+   "name": "Doggie Beef Stew",
+   "description": "A simple yet delicious mixture of vitamins and proteins, this meal is pretty much any dog’s favorite. The recipe that we’re going to go through will produce around four servings of beef stew that you can store in your fridge for around a week.",
+   "image": "stew.jpg",
+   "fav": false,
+   "time": "30 min",
+   "ingregients": [
+     "1 Lb. of beef cut fit for stewing.",
+     "1 sweet potato or normal potato.",
+     "​½ cup of chopped green beans.",
+     "​½ cup of chopped carrots.",
+     "​½ cup of flour (preferably whole grain, but white flour can be used as well).",
+     "​½ cup of vegetable oil or water.",
+     "1 tablespoon of vegetable oil for frying."
+   ],
+   "instruction": [
+"Cut meat into small, half-inch cubes and place them in a frying pan with 1 tablespoon of vegetable oil. Cook in medium heat for 15 minutes until the beef cubes are well-done.",
+"Remove the cooked beef from the pan and set aside its drippings as well.",
+     "Microwave a sweet potato for around 8 minutes until it becomes tender. If you’re using a normal potato, then boil it until it becomes completely tender.",
+"Chop the sweet potato/normal potato into small cubes and set aside.",
+     "Now heat the beef drippings on medium to low heat. Add ½ cup of water to the drippings and ½ cup of flour to the mixture and gently stir it. Cook the mixture until it turns into a thick gravy.",
+     "Finally, add your beef, potato, beans, and carrots to the gravy. Cook the stew for around 10 minutes to make sure that the vegetables become tender.",
+"Wait for the beef stew to cool down to room temperature before you serve it to your dog."
+   ]
+ },
+   {
+   "name": "Crockpot Beef And Rice",
+   "description": "An equally nutritional meal that is very simple to make. You can prepare this meal in 10 minutes and get around 12 cups of food that can be frozen and served later on. This meal is packed with protein and good carbs, and a variety of veggie vitamins.",
+   "image": "crock.jpg",
+   "time": "15 min",
+   "fav": false,
+   "ingregients": [
+"2 and ½ cups of minced beef.",
+     "1 and ½ cups of brown rice.",
+     "​1 can of kidney beans (rinsed and drained) or around 15 ounces of freshly boiled kidney beans.",
+     "​1 and ½ cups of chopped carrot.",
+     "​½ cup of frozen peas.",
+     "1 and ½ cup of butternut squash.",
+     "4 cups of water"
+   ],
+   "instruction": [
+"Add all of the ingredients mentioned above in a crockpot and fill it with 4 cups of water.",
+"Close the crockpot and leave it on high heat for around 2 to 3 hours. Alternatively, leave it on low heat for 5 to 6 hours.",
+    "Stir the contents after the time is up and let it cool down before you serve it"
+   ]
+ },
+   {
+     "name": "Veggie, Turkey, And Rice Mix",
+     "description": "A leaner take on protein-rich foods, this recipe is great for a dog that needs to focus on losing weight. This recipe will give you 10 cups of dog food that you can easily store for 5 days.",
+     "image": "rice.jpg",
+     "time": "35 min",
+     "fav": false,
+     "ingregients": [
+       "6 cups of water.",
+       "2 cups brown rice.",
+       "1 Lb. of ground Turkey.",
+       "​½ cup of fresh or frozen carrots, broccoli, and cauliflower.",
+       "1 teaspoon of dried herbs (rosemary, thyme, or oregano)."
+     ],
+     "instruction": [
+"Add all the ingredients mentioned above (except for the veggies) into a Dutch oven along with the water.",
+       "Give the mixture a few stirs to make sure that all the ingredients get distributed properly.",
+"Bring the water to a boil and leave it to simmer on low heat for about 20 minutes.",
+       "Now add the veggies and cook for 5 more minutes.",
+       "Bring the meal down to room temperature and then serve and store it."
+     ]
+   },
+   {
+   "name": "Frozen Banana Treats",
+   "description": "This delicious and refreshingly cool treat is perfect to give to your dog in the summers.",
+   "image": "banana.jpg",
+   "time": "10 min",
+   "fav": false,
+   "ingregients": [
+     "2 tablespoons of peanut butter.",
+     "4 cups of plain yogurt.",
+     "​3 ripe, peeled bananas."
+   ],
+   "instruction": [
+"Mash the bananas and blend them along with all the other ingredients into a puree.",
+     "Pour the puree into an ice cube tray or plastic cups and leave it to freeze until it becomes firm.",
+     "Once firm, you can serve it to your dog and keep it stored in the freezer for around 2 weeks."
+   ]
+ },
+   {
+   "name": "Fruity Dessert",
+   "description": "This incredibly delicious and fruity dessert can be a great way to treat your dog now and then. It also has a ton of vitamins and nutrients to offer.",
+   "image": "fruit.jpg",
+   "fav": false,
+   "time": "10 min",
+   "ingregients": [
+     "¼ cup of chopped apples (without the seeds).",
+     "​¼ cup of strawberries.",
+     "¼ cup applesauce.",
+     "​¼ cup of yogurt.",
+     "​1 tablespoon of brewer’s yeast (optional).",
+     "½ cup of blueberries."
+   ],
+   "instruction": [
+"Take all the ingredients and blend them into a refreshing smoothie.",
+     "Serve to your dog while it’s fresh and cool."
+   ]
+ },
+   {
+   "name": "Veggie Smoothie",
+   "description": "This is a great way to provide your dog with a burst of vitamins and beneficial minerals. Keep in mind that you shouldn’t give this to your dog more than twice a week as they need protein in their diet.",
+   "image": "smmothie.jpg",
+   "time": "15 min",
+   "fav": false,
+   "ingregients": [
+     "​¼ cup of apples, bananas, peaches, and pears.",
+     "​¼ cup of spinach, green beans, squash, carrots, and zucchini.",
+     "​4 tablespoons of plain yogurt.",
+     "​¼ cup of any fruit juice other than grape juice (which can cause kidney failure in dogs).",
+     "1 tablespoon of cream cheese."
+   ],
+   "instruction": [
+"Take everything and toss it into a blender.",
+"Blend it all until a nice and consistent mixture is formed.",
+"Serve the mixture to your dog while it’s fresh."
+   ]
+ },
+   {
+     "name": "Simple Raw Food Mix",
+     "description": "",
+     "image": "raw.jpg",
+     "time": "20 min",
+     "fav": false,
+     "ingregients": [
+       "1 cup of mixed vegetables that can be served raw (carrots, cabbage, lettuce, etc.)",
+       "​1 and ½ cup of raw red or white meat. You can use organ meat as well.",
+       "​2 tablespoon of bone meal or half a cup of milk or yogurt.",
+       "​1 tablespoon of cod liver oil."
+
+     ],
+     "instruction": [
+       "Dice your raw meat into manageable sizes. You can also use a grinder to grind the meat.",
+       "Make a puree out of the vegetables by blending them.",
+"Now take all the ingredients and place them in a large bowl. Mix them up and serve them to your dog fresh."
+
+     ]
+   },
+   {
+     "name": "Chicken Jerky Strips (Grain-Free)",
+     "description": "A much healthier alternative for rawhides since this recipe doesn’t include any preservatives. It doesn’t include grains either, which can be harmful to some dogs",
+     "image": "strips.jpg",
+     "time": "2 hour 30 min",
+     "fav": false,
+     "ingregients": [
+       "2 to 4 chicken breasts without the skin."
+     ],
+     "instruction": [
+       "Preheat your oven to about 200 degrees.",
+       "Prepare the chicken breasts by removing any excess fat on them.",
+       "Slice the breasts into 1/8 inch strips with a knife.",
+       "Prepare a baking tray with baking sheets and place the strips on it.",
+       "Bake them for around 2 hours.",
+       "Remove the dried and hardened chicken, let it cool and then serve it to your pooch. These strips can easily be stored for up to 2 weeks."
+     ]
+   }
+ ]
+
